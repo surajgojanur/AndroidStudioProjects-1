@@ -7,4 +7,14 @@
     android:background="@drawable/porch3"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="203dp"
+        android:layout_height="112dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="80dp"
+        android:text="WRONG"
+        android:textSize="34sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
