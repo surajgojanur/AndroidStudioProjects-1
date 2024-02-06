@@ -38,7 +38,6 @@
             android:id="@+id/radioButton"
             android:layout_width="278dp"
             android:layout_height="75dp"
-            android:gravity="center"
             android:text="google"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
